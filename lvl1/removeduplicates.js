@@ -1,3 +1,4 @@
+//using set
 const removeDuplicates=(arr)=>{
     let unique=new Set(arr)
     return result = [...unique]
